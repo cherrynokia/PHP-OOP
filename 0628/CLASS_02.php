@@ -43,9 +43,6 @@ echo "<br>";
 
 $movePosition = $pet->resetPosition();
 echo "(" . $movePosition['x'] . " , " . $movePosition['y'] . ")";
-echo "(" . $movePosition['x'] . " , " . $movePosition['y'] . ")";
-echo "(" . $movePosition['x'] . " , " . $movePosition['y'] . ")";
-echo "(" . $movePosition['x'] . " , " . $movePosition['y'] . ")";
-echo "(" . $movePosition['x'] . " , " . $movePosition['y'] . ")";
+
 
 ?>
